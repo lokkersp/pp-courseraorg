@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pp-courseraorg.iml" filepath="$PROJECT_DIR$/.idea/modules/pp-courseraorg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pp-courseraorg-build.iml" filepath="$PROJECT_DIR$/.idea/modules/pp-courseraorg-build.iml" />
     </modules>
   </component>
 </project>
